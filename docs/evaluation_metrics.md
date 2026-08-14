@@ -5,7 +5,7 @@
 ### RMSE (Root Mean Square Error)
 **What it measures:** How far the predicted ratings are from actual ratings.
 
-**Formula:** √(mean((predicted - actual)²))
+**Formula:** Sqrt(mean((predicted - actual)²))
 
 **Interpretation:** Lower is better. Penalizes large errors more heavily.
 
